@@ -1,2 +1,3 @@
 # Pygame_snake
-Small snake game using Pygame
+
+## Small snake game using Pygame
